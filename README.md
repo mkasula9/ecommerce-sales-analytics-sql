@@ -1,6 +1,6 @@
 # SQL E-Commerce Mini Analytics Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an end-to-end SQL analytics mini project designed to simulate a real-world business analytics workflow using SQL Server.
 
@@ -15,14 +15,14 @@ The dataset used represents **e-commerce order-level data**, where each row corr
 This project is structured and documented in a way that reflects how analytics work is typically done in industry.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Database:** SQL Server 2017  
 - **Query Tool:** SQL Server Management Studio (SSMS)  
 - **Version Control:** Git & GitHub  
 
 
-## 📂 Project Structure
+## Project Structure
 
 sql-ecommerce-mini-project/
 │
